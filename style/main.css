@@ -1,0 +1,11 @@
+body{
+	background-color: #16384c;
+}
+.container{
+	margin: 100px;
+	margin-bottom: 40px;
+}
+button{
+	margin-bottom: 20px;
+	margin-left: 300px;
+}
